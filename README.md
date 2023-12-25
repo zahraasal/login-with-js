@@ -1,1 +1,1 @@
-# login-with-js
+login file is one of the exercises of the JavaScript course, which has limitations for each input, for example, for the mobile number, only numbers can be entered and it cannot be more than 11 digits.
